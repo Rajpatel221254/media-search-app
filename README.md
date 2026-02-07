@@ -30,7 +30,7 @@ This project focuses on **clean UI/UX**, **state management with Redux**, and **
 ### APIs Used
 - **Unsplash** – Photos
 - **Pixabay** – Videos
-- **Tenor** – GIFs
+- **Gify** – GIFs
 
 > ⚠️ This is a **frontend-only application**.  
 > No backend, database, or authentication is used.
@@ -57,5 +57,5 @@ Create a `.env` file in the root directory:
 ```env
 VITE_UNSPLASH_KEY=your_unsplash_api_key
 VITE_PIXABAY_KEY=your_pixabay_api_key
-VITE_TENOR_KEY=your_tenor_api_key
+VITE_GIFY_KEY=your_tenor_api_key
 

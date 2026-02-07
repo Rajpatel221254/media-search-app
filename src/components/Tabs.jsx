@@ -1,4 +1,3 @@
-import React, { act } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import { setActiveTabs } from '../redux/slices/searchSlice'
 import MediaGrid from './mediaGrid'

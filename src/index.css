@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+:root{
+    --c1:rgb(7, 29, 68);
+    --c2:rgb(28, 77, 141);
+    --c3:rgb(22, 85, 143);
+    --c4:rgb(189, 232, 245)
+}
+
+.slider::-webkit-scrollbar{
+    display: none;
+}
